@@ -1,10 +1,10 @@
 🧠 **Project Title**
 Customer Churn Analysis Dashboard – Power BI
 
-📍** Objective**
+📍**Objective**
 This project aims to provide business insights into customer churn behavior using interactive Power BI dashboards. It helps banking stakeholders identify key churn indicators and optimize retention strategies.
 
-🧾** Dataset**
+🧾**Dataset**
 Source: Kaggle – Churn for Bank Customers
 
 10,000 bank customer records including features like:
