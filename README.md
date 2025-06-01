@@ -86,6 +86,9 @@ Use the DOCX report for deeper understanding and sharing
 📌 **Contact**
 
 Muhammad Ishaq Khan
+
 Open to Data Analyst / BI Analyst roles in Toronto (Remote/Hybrid preferred)
+
 📧 muhammadishaq.2207@gmail.com
+
 🌐 https://www.linkedin.com/in/muhammad-ishaq-khan/
