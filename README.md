@@ -1,10 +1,10 @@
-🧠 Project Title
+🧠 **Project Title**
 Customer Churn Analysis Dashboard – Power BI
 
-📍 Objective
+📍** Objective**
 This project aims to provide business insights into customer churn behavior using interactive Power BI dashboards. It helps banking stakeholders identify key churn indicators and optimize retention strategies.
 
-🧾 Dataset
+🧾** Dataset**
 Source: Kaggle – Churn for Bank Customers
 
 10,000 bank customer records including features like:
@@ -17,7 +17,7 @@ Credit Card usage, Membership activity
 
 Estimated Salary and Churn status
 
-📊 Dashboard Features
+📊 **Dashboard Features**
 KPI Cards:
 
 Total Customers: Count of total customers in dataset
@@ -42,7 +42,7 @@ Filters (Slicers): Balance Range, Geography, Activity Status
 
 Drill-down: Balance Range → Geography → Churn Breakdown
 
-🛠 Tools & Technologies
+🛠 **Tools & Technologies**
 🧩 Power BI Desktop
 
 🐍 DAX (Data Analysis Expressions)
@@ -51,14 +51,14 @@ Drill-down: Balance Range → Geography → Churn Breakdown
 
 📁 Data Modeling & Relationships
 
-🔍 Business Insights
+🔍 **Business Insights**
 Customers with high balance but low engagement have a higher churn rate.
 
 Certain geographies (like Germany) show higher churn tendencies.
 
 Churn is more prominent among customers with multiple products.
 
-📂 Files Included
+📂 **Files Included**
 File/Folder	Description
 churn_dashboard.pbix	Power BI project file
 Customer_Churn_Report_Complete.docx	Project report with insights
@@ -66,7 +66,7 @@ dashboard_overview.png	Screenshot of the dashboard
 churn_data_sample.csv	Dataset sample
 README.md	Project summary
 
-🚀 How to Use
+🚀 **How to Use**
 Clone the repository
 
 Open churn_dashboard.pbix using Power BI Desktop
@@ -75,7 +75,7 @@ Modify filters and drill-down options to explore the data
 
 Use the DOCX report for deeper understanding and sharing
 
-📌 Contact
+📌 **Contact**
 Muhammad Ishaq Khan
 Open to Data Analyst / BI Analyst roles in Toronto (Remote/Hybrid preferred)
 📧 muhammadishaq.2207@gmail.com
