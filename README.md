@@ -58,11 +58,17 @@ Drill-down: Balance Range → Geography → Churn Breakdown
 
 🔍 **Business Insights**
 
-Customers with high balance but low engagement have a higher churn rate.
+The overall churn rate is 20.37% among 10,000 customers, with 36% holding zero balances and over half owning credit cards.
 
-Certain geographies (like Germany) show higher churn tendencies.
+Churn is highest in the low balance segment (0–50K) at 34.67%, mainly driven by customers in France and Spain.
 
-Churn is more prominent among customers with multiple products.
+Customers with very high balances (100K+) also show elevated churn rates, especially in Germany and Spain, indicating churn is not strictly related to account balance.
+
+Germany exhibits the highest churn rate (32.44%), despite having no zero-balance customers and the highest average balance, suggesting engagement issues.
+
+Female customers churn at a significantly higher rate (25.07%) than males (16.46%), even though they have higher average salaries, highlighting a need for targeted retention efforts.
+
+Credit card ownership is generally linked with lower churn, pointing to cross-selling as a potential retention lever.
 
 📂 **Files Included**
 
